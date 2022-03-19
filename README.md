@@ -16,14 +16,14 @@ AutoCheck.exe의 바로가기를 만들어 두고 사용해도 되고,
 ###### ※ 크롬드라이버 오류 발생 시 크롬 버전을 확인하고 버전에 맞은 크롬 웹 드라이버를 다운 받아야 함.
 <br><br>
 
-## 사용 방법
+## 실행 및 사용 방법
 1. AutoCheck.exe 실행<br><br>
 2. 쿠키를 얻어야 할 경우 :<br>
 2-1. 콘솔 창에 아이디와 비밀번호를 차례대로 입력<br>
 2-2. 웹 페이지 상에서 캡챠 수행<br>
 2-3. 콘솔 창에서 y 입력<br><br>
 
-또는 wayscript에서 매일 자동 실행 가능, 단 쿠키는 위의 방법 중 하나로 구해야 함
+또는 wayscript에서 매일 자동 실행 가능, 단 쿠키는 위의 방법으로 구해야 함
 
 
 > [https://wayscript.com/script/IKgxifTh](https://wayscript.com/script/IKgxifTh)
