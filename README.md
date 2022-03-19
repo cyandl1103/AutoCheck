@@ -25,6 +25,6 @@ AutoCheck.exe의 바로가기를 만들어 두고 사용해도 되고,
 
 또는 wayscript에서 매일 자동 실행 가능, 단 쿠키는 위의 방법 중 하나로 구해야 함
 
-```
-https://wayscript.com/script/IKgxifTh
-```
+
+> [https://wayscript.com/script/IKgxifTh](https://wayscript.com/script/IKgxifTh)
+
